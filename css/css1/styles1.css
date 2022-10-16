@@ -1,0 +1,87 @@
+
+@media only screen and (max-width: 500px)
+{
+     .box-size{
+        width: 100vw;
+     }
+       
+}
+    body{
+
+        background-color: antiquewhite;
+       
+        margin:7rem auto;
+        width:70vw;
+        font-family: 'Alkalami', serif;
+        font-family: 'Dancing Script', cursive;
+        font-family: 'Encode Sans Semi Condensed', sans-serif;
+        font-family: 'New Rocker', cursive;
+    }
+
+ 
+ 
+
+h1{
+    text-align: center;
+    border: 5px inset #c3c689;
+   border-radius: 5px 0px 0px 0px;
+    font-size: 4rem;
+    margin-bottom: 5rem;
+    color: #cbba83;     
+    
+ 
+
+ 
+}
+
+ 
+ 
+.CvNav ul{
+    list-style:none;
+   
+    display: flex;
+    
+
+    
+}
+.CvNav ul li{
+    margin-right: 1rem;
+    
+}
+
+.CvNav ul li a{
+    text-decoration: none;
+    color: #000;
+
+}
+
+.CvNav ul li a:hover{
+    opacity:.5;
+
+}
+
+.text{
+    display: flex;
+    align-items: center;
+   font-size:3rem;
+   justify-content: space-around;
+
+}
+ 
+
+ 
+
+
+
+
+
+ 
+ 
+  
+ 
+ 
+
+ 
+     
+
+ 
