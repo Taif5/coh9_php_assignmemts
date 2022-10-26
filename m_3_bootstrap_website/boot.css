@@ -1,0 +1,48 @@
+ 
+#hero-perfume{
+      
+    background-image: url(./ee.png);
+    background-repeat:  no-repeat;
+    background-size: cover;
+    background-position:center ;
+    
+    padding:  29rem ;
+
+    /* padding: 40rem 19rem; */
+    
+     
+ }
+.navbar {
+background-color: rgb(6, 0, 0);
+  }
+
+.new{
+  font-size: 40px;
+}
+ul.navbar-nav a:hover{
+  opacity: .7;
+
+}
+body{
+  /* font-family: 'Alkalami', serif;
+font-family: 'Dancing Script', cursive;
+font-family: 'Encode Sans Semi Condensed', sans-serif;
+font-family: 'New Rocker', cursive;
+  */
+
+ 
+
+
+ font-family: 'Alkalami', serif;
+font-family: 'Black And White Picture', sans-serif;
+font-family: 'Dancing Script', cursive;
+font-family: 'Encode Sans Semi Condensed', sans-serif;
+font-family: 'Pathway Gothic One', sans-serif;
+font-family: 'Sriracha', cursive;
+
+
+
+}
+    
+
+ 
